@@ -8,9 +8,7 @@ sql con interfaces avanzadas, ya que esta pensada para entorno mas complejos com
 | Paquete   | Propósito principal                                                                      |
 |-----------|------------------------------------------------------------------------------------------|	
 | java.sql	| Proporciona la API básica de JDBC para conectarse y operar con bases de datos.           |
-|-----------|------------------------------------------------------------------------------------------|   
 | javax.sql |	Es una extensión avanzada de JDBC, pensada para entornos más complejos (como Java EE). |
-|------------------------------------------------------------------------------------------------------|
 
 ## ¿Qué contiene cada uno?
 
