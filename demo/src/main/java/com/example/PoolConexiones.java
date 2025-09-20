@@ -12,8 +12,8 @@ public class PoolConexiones {
 
     static {
         config.setJdbcUrl("jdbc:mysql://localhost:3306/prueba_conexion_con_java");
-        config.setUsername("root");
-        config.setPassword("johancar12");
+        config.setUsername("user");
+        config.setPassword("password");
 
         // Propiedades opcionales para optimizar
         config.setMaximumPoolSize(10);
