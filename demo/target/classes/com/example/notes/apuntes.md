@@ -26,9 +26,7 @@ JDBC tiene dos capas principales:
 |Capa        | Función                                                                    |  
 |------------|----------------------------------------------------------------------------|
 |JDBC API    |	Interfaces Java (Connection, Statement, ResultSet, etc.)                  |
-|------------|----------------------------------------------------------------------------|
 |JDBC Driver |	Implementación específica para cada base de datos (MySQL, Oracle, etc.)   |
-|-----------------------------------------------------------------------------------------|
 
 Por ejemplo, el driver mysql-connector-j traduce las llamadas JDBC a comandos que MySQL 
 entiende.
